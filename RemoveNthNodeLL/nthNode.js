@@ -15,7 +15,7 @@ class LinkedList {
         this.head = null;
     }
 
-    // Create helper function to find the LL's size
+    // Create helper function to find the linked list size
     size () {
         let count = 0;
         let current = this.head;
